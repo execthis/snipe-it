@@ -5,6 +5,7 @@
 /bin/
 /bootstrap/compiled.php
 /node_modules
+/bower_components
 /vendor
 app/database/*.sqlite
 app/storage/meta/services.json
@@ -40,5 +41,6 @@ tests/_support/_generated/*
 /npm-debug.log
 /storage/oauth-private.key
 /storage/oauth-public.key
+php_errors.log
 
 *.cache
